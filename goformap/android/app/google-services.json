@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334660780894",
+    "project_id": "bustrackingapp-13201",
+    "storage_bucket": "bustrackingapp-13201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334660780894:android:1a3c8773b569cb7176c5cf",
+        "android_client_info": {
+          "package_name": "com.example.goformap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334660780894-qg00ffv1b10bcnnbsuuqj2ta8pm68fk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3vSeVIzYpaNXWVn8q9Ji4GbVa0PA128"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334660780894-qg00ffv1b10bcnnbsuuqj2ta8pm68fk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
